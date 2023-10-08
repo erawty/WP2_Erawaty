@@ -5,7 +5,7 @@
  </head> 
  <body> 
     <center> 
-        <form action="<?=   base_url('Matakuliah/cetak'); ?>"
+        <form   action="<?=   base_url('Matakuliah/cetak'); ?>"
 method="post">
          <table>
              <tr>
@@ -16,7 +16,7 @@ method="post">
             <tr> 
                 <td colspan="3">
                      <hr>
-                    </td> 
+                </td> 
             </tr>
             <tr>
                 <th>Kode MTK</th>
